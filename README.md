@@ -5,9 +5,17 @@
 
 ---
 
-### ESquemático
+### Esquemático
 
 <img width="1132" height="433" alt="image" src="https://github.com/user-attachments/assets/67559c8c-5ff1-45e6-8242-e38372b6d8dc" />
+
+### 3D Image
+
+<img width="848" height="636" alt="image" src="https://github.com/user-attachments/assets/42201380-4de2-422b-974a-4816004bf9b2" />
+
+### PCB Layout
+
+<img width="521" height="602" alt="image" src="https://github.com/user-attachments/assets/7bd5878d-be3c-4a75-b052-7cf75ebffb61" />
 
 
 ### 🔄 Histórico
