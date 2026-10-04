@@ -30,10 +30,10 @@
 | Vout | 5.0V fixo |
 | Iout | até 3A contínuo |
 | Indutor | 33uH a 100uH 4A toroidal amarelo |
-| Diodo | 1N5822 Schottky 3A 40V (NÃO use 1N4007) |
+| Diodo | 1N5822 Schottky 3A 40V  |
 | Ripple | < 50mV com 470uF Low ESR |
 
-### 📦 BOM Real - Comprar em Santa Rita
+### 📦 BOM  
 
 - 1x LM2596S-5.0 ou LM2596S-ADJ
 - 1x Indutor toroidal 33uH/100uH 4A - R$ 12
