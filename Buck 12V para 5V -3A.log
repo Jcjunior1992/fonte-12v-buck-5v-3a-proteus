@@ -1,0 +1,10 @@
+# Writing all output to: C:\Users\J??lio\Documents\Projetos Eletr??nica\Buck 12V para 5V  3A\Buck 12V para 5V -3A.log
+set pad_wire_necking on
+bus diagonal
+fanout 5
+route 50
+clean 2
+route 50 16
+clean 2
+filter 5
+recorner diagonal
